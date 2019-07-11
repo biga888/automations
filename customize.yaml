@@ -1,0 +1,8 @@
+cover.garage_door:
+  device_class: garage
+  friendly_name: Garage Door
+  homebridge_cover_type: garage_door
+  google_assistant: true
+  google_assistant_type: switch
+group.garage_door:
+  friendly_name: Garage
